@@ -1,2 +1,2 @@
 # Veterinaria ShechyTorres
-- [Veterinaria](index.html)
+- [Veterinaria](https://shechytorres.github.io/veterinaria-ShechyTorres/)
